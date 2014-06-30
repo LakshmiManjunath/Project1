@@ -3,14 +3,18 @@
 <head>
 	<meta charset="utf-8">
 	<title>About Me</title>
-	<link href="css/about-me.css" type="text/css" rel="stylesheet">
+<!-- Link to Customized Style Sheet -->
+	<link href="css/index.css" type="text/css" rel="stylesheet">
+<!-- Link to Google Font -->
 	<link href='http://fonts.googleapis.com/css?family=Amaranth' rel='stylesheet' type='text/css'>
 </head>
 <body>
+<!-- Introduction -->
 	<h1>Me..Myself<img id="me_myself" src="images/me_myself.jpg" alt="me_myself"> &amp; Who..<img id="who" src="images/who2.jpg" alt="who"></h1>
 	<img src="images/mypics.jpg" alt="my-pic" >
 	<div>
 		<p id="intro"><b>NAME:</b>Lakshmi Manjunath<br><b>EMAIL</b>:lakshmimanjunath@g.harvard.edu|<b>ADDRESS:</b>Brighton,MA</p>
+<!-- Questionnaire Section -->		
 		<h3>1. In 2+ sentences describe who you are and what you do.</h3>
 		<p>I am originally from Bengaluru,India. I moved to Boston 2 years ago.I have a bachelor's degree in Computer Science with more than a year 
 		experience working as a Software Engineer. I have recently started building 
