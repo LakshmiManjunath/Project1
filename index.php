@@ -11,7 +11,7 @@
 <body>
 <!-- Introduction -->
 	<h1>Me..Myself<img id="me_myself" src="images/me_myself.jpg" alt="me_myself"> &amp; Who..<img id="who" src="images/who2.jpg" alt="who"></h1>
-	<img src="images/mypics.jpg" alt="my-pic" >
+	<img src="images/mypics.JPG" alt="my-pic" >
 	<div>
 		<p id="intro"><b>NAME:</b>Lakshmi Manjunath<br><b>EMAIL</b>:lakshmimanjunath@g.harvard.edu|<b>ADDRESS:</b>Brighton,MA</p>
 <!-- Questionnaire Section -->		
